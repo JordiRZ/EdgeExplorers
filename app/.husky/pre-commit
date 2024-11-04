@@ -1,0 +1,8 @@
+{
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,css,md}": "prettier --write"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
