@@ -1,2 +1,2 @@
-cd frontend
+cd ./app
 npm test
