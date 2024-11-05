@@ -4,7 +4,7 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "prepare": "cd ../ && husky install ./app/.husky",
+        "prepare": "cd .. && husky app/.husky",
         "dev": "vite",
         "build": "tsc -b && vite build",
         "lint": "eslint .",
