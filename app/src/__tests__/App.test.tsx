@@ -1,5 +1,5 @@
 describe('App test', () => {
-    it('Should return true', () => {
-        expect(true).toBe(true)
-    })
+  it('Should return true', () => {
+    expect(true).toBe(true)
+  })
 })
